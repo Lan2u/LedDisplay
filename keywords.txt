@@ -1,5 +1,5 @@
-displayNumber	KEYWORD1
+displayNumber	KEYWORD2
 displayErr	KEYWORD2
-displayClear	KEYWORD3
-setRefreshRate	KEYWORD4
-displayVal	KEYWORD5
+displayClear	KEYWORD2
+setRefreshRate	KEYWORD2
+displayVal	KEYWORD2
